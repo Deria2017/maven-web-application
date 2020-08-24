@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.232.128:8081/Deria/2017/repository/flipkart-release/</url>
+	      <url>http://100.26.232.128:8081/repository/maven-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.26.232.128:8081/Deria2017/repository/flipkart-snapshot/</url>
+	      <url>http://100.26.232.128:8081/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
